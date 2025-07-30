@@ -29,11 +29,11 @@ print(b < a or b > a)   # 2000 < 1000 = False or 2000 > 1000 = True      false  
 print("Membership Operators:")
 
 # String Example
-print('a' in 'apple')       # ✅ True — 'a' is in 'apple'
-print('d' in 'apple')       # ❌ False — 'd' is not in 'apple'
+print('a' in 'apple')       #  True — 'a' is in 'apple'
+print('d' in 'apple')       #  False — 'd' is not in 'apple'
 
 
 # List Example
 fruits = ['apple', 'banana', 'cherry']
-print('banana' in fruits)   # ✅ True — banana is in the list
-print('grape' not in fruits) # ✅ True — grape is not in the list
+print('banana' in fruits)    # True — banana is in the list
+print('grape' not in fruits) # True — grape is not in the list
