@@ -37,3 +37,4 @@ print('d' in 'apple')       #  False — 'd' is not in 'apple'
 fruits = ['apple', 'banana', 'cherry']
 print('banana' in fruits)    # True — banana is in the list
 print('grape' not in fruits) # True — grape is not in the list
+
